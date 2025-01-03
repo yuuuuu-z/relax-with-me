@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --font-rubik-vinyl: sans-serif; /* Default fallback */
+}
+
+body {
+  font-family: var(--font-rubik-vinyl);
+  background-color: #b6a28e;
+}
