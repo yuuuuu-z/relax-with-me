@@ -16,7 +16,7 @@ const Navbar = () => {
         >
           <PiCoffee />
         </motion.div>
-        <div className=" text-lg bg-amber-800 px-5 py-2 rounded-lg  ">
+        <div className="text-lg bg-amber-800 px-5 py-2 rounded-lg hover:scale-75 transform transition duration-500 ease-in-out">
           <Link
             href={
               "https://paypal.me/chuonsopheaktra?country.x=BH&locale.x=en_US"

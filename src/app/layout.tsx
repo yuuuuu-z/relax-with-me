@@ -24,7 +24,9 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en" suppressHydrationWarning>
+      
       <body className={` ${rubikVinyl.variable}  antialiased`}>
+        
         <Providers>{children}</Providers>
       </body>
     </html>
