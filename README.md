@@ -20,7 +20,6 @@ Perfect for naps, study sessions, or just pretending you’re in a fluffy cloud.
 - Soothing soundscapes  
 - Minimalist & calming design  
 - Easy to use (because relaxation shouldn’t be complicated)
-- Demo : https://relax-with-me.vercel.app/ 
 
 ---
 
